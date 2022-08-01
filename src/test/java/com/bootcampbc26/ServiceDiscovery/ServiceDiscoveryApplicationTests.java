@@ -1,10 +1,10 @@
-package com.sistemabancario.gateway;
+package com.bootcampbc26.ServiceDiscovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GatewayApplicationTests {
+class ServiceDiscoveryApplicationTests {
 
 	@Test
 	void contextLoads() {
